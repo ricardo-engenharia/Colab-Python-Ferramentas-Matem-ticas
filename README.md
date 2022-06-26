@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+    <a href="http://edcuninter.blogspot.com/2017/09/ferramentas-matematicas-aplicadas-aula-1.html">Acessar a demonstração</a>
 <h3 >
 
 # Indice
@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O projeto **COLAB** é uma matéria dedicada ao estudo das fórmulas aplicadas na prática com o uso do Colab do Google. Esse repositório foi criado para colocar as atividades da Faculdade Uninter de Engenharia.
 
 ---
 
@@ -26,9 +26,7 @@ O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Boot
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [ReactJS](https://reactjs.org)
-- [Redux](https://redux.org)
-- [Axios](https://github.com/axios/axios)
+- Google Colab
 
 ---
 
@@ -37,18 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/danileao/rocketmusic
+    $ git clone https://github.com/ricardo-engenharia/Colab-Python-Ferramentas-Matem-ticas.git
 
-    # Entrar no diretório
-    $ cd rocketmusic
 
-    # Instalar as dependências
-    $ yarn install
-
-    # Iniciar o projeto
-    $ yarn start
-```
-
----
-
-Desenvolvido 💜 por Daniele Leão Evangelista
+Desenvolvido por Ricardo Rodrigues
