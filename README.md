@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
+    <img src="https://sigmoidal.ai/wp-content/uploads/2022/06/images.jpg">
 </h1>
 
 <h1>
